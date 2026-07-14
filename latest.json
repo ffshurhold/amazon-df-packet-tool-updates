@@ -1,7 +1,7 @@
 {
   "version": "0.4.6",
-  "mac_download_url": "https://github.com/ffshurhold/amazon-df-packet-tool-updates/releases/latest",
-  "windows_download_url": "https://github.com/ffshurhold/amazon-df-packet-tool-updates/releases/latest",
-  "download_url": "https://github.com/ffshurhold/amazon-df-packet-tool-updates/releases/latest",
+  "mac_download_url": "https://barryshurhold-my.sharepoint.com/:f:/g/personal/forrest_shurhold_com/IgC8q69kPCT9SrWicAx2ZGwZATsOdicQcaa6o0SuSqIKwDg?e=vute4f",
+  "windows_download_url": "https://barryshurhold-my.sharepoint.com/:f:/g/personal/forrest_shurhold_com/IgC8q69kPCT9SrWicAx2ZGwZATsOdicQcaa6o0SuSqIKwDg?e=vute4f",
+  "download_url": "https://barryshurhold-my.sharepoint.com/:f:/g/personal/forrest_shurhold_com/IgC8q69kPCT9SrWicAx2ZGwZATsOdicQcaa6o0SuSqIKwDg?e=vute4f",
   "release_notes": "Supports UPS Ground Saver / USPS shipping labels that omit the Amazon PO by uniquely matching the delivery address."
 }
