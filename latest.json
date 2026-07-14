@@ -1,7 +1,7 @@
 {
-  "version": "0.4.5",
+  "version": "0.4.6",
   "mac_download_url": "https://github.com/ffshurhold/amazon-df-packet-tool-updates/releases/latest",
   "windows_download_url": "https://github.com/ffshurhold/amazon-df-packet-tool-updates/releases/latest",
   "download_url": "https://github.com/ffshurhold/amazon-df-packet-tool-updates/releases/latest",
-  "release_notes": "Odoo import CSV cleanup fix, Mac clean installer, and update checker."
+  "release_notes": "Supports UPS Ground Saver / USPS shipping labels that omit the Amazon PO by uniquely matching the delivery address."
 }
