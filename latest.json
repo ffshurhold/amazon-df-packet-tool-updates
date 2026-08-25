@@ -1,7 +1,7 @@
 {
-  "version": "0.5.0",
+  "version": "0.5.1",
   "mac_download_url": "https://barryshurhold-my.sharepoint.com/:f:/g/personal/forrest_shurhold_com/IgC8q69kPCT9SrWicAx2ZGwZATsOdicQcaa6o0SuSqIKwDg?e=vute4f",
   "windows_download_url": "https://barryshurhold-my.sharepoint.com/:f:/g/personal/forrest_shurhold_com/IgC8q69kPCT9SrWicAx2ZGwZATsOdicQcaa6o0SuSqIKwDg?e=vute4f",
   "download_url": "https://barryshurhold-my.sharepoint.com/:f:/g/personal/forrest_shurhold_com/IgC8q69kPCT9SrWicAx2ZGwZATsOdicQcaa6o0SuSqIKwDg?e=vute4f",
-  "release_notes": "Adds reviewed direct creation of unconfirmed Odoo draft quotations with duplicate protection, readback reconciliation, and audit logs; retains the XLSX fallback; ignores high-confidence PDF overflow fragments; fixes window repainting; hides disabled Home Depot rows by default; and prevents Windows renderer console flashes."
+  "release_notes": "Makes offline ZPL rendering resilient on macOS by installing and launch-testing a durable renderer outside the application bundle, restoring it from valid bundled locations, and falling back automatically when an old custom path disappears. Mac builds and installers now stop with a clear error if the renderer is missing or cannot launch."
 }
